@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 from dotenv import find_dotenv, load_dotenv
-from requests import session
+from requests import session 
 import logging
 
 
