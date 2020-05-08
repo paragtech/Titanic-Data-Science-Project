@@ -1,6 +1,10 @@
 Titanic Data Science Praject
 ==============================
 
+Kaggle-titanic Dataset
+
+This is a tutorial in an IPython Notebook for the Kaggle competition, Titanic Machine Learning From Disaster. The goal of this repository is to provide an example of a competitive analysis for those interested in getting into the field of data analytics or using python for Kaggle's Data Science competitions .
+
 Titanic Data Science Challange
 
 Project Organization
@@ -55,3 +59,12 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+In a form of a jupyter notebook, my solution goes through the basic steps of a data science pipeline:
+
+Exploratory data analysis with visualizations
+Data cleaning
+Feature engineering
+Modeling
+Modelfine-tuning
